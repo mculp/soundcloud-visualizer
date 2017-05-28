@@ -1,0 +1,11 @@
+{
+  "name": "soundcloud-viz",
+  "version": "1.0.0",
+  "description": "yay",
+  "scripts": {
+    "start": "harp server --port $PORT"
+  },
+  "dependencies": {
+    "harp": "*"
+  }
+}
